@@ -1,3 +1,5 @@
 
 IST240-FinalProject.iml
 .idea/*
+.out/*
+*.class
